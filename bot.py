@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = 8781596808:AAGUqSZ5oV9EA3Hs1-P2mI7GL5N32_6rWgs
 
 keyboard = [
     ["🛒 خرید اشتراک"],

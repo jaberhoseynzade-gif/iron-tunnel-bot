@@ -27,7 +27,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "50GB ➜ 299,000\n"
             "100GB ➜ 399,000\n"
             "250GB ➜ 699,000\n\n"
-            "💳 شماره کارت:\nXXXX-XXXX-XXXX-XXXX\n\n"
+            "💳 شماره کارت:6037991797121427
             "📷 بعد از پرداخت، رسید را ارسال کنید."
         )
 
